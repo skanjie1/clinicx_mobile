@@ -42,13 +42,13 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Feedback
-We value your feedback! If you have any suggestions, questions, or concerns, please don't hesitate to contact us at contact@clinicxapp.com.
+We value your feedback! If you have any suggestions, questions, or concerns, please don't hesitate to contact us at [clinicx@gmail.com](mailto:sydneykanjie@gmail.com).
 
 ## Support
-For any technical assistance or inquiries, reach out to our support team at support@clinicxapp.com.
+For any technical assistance or inquiries, reach out to our support team at [clinicxsupport@gmail.com](mailto:sydneykanjie@gmail.com)
 
 ## About Us
-ClinicX Mobile Application is developed by XYZ Healthcare Technologies, dedicated to providing innovative solutions for a seamless healthcare experience.
+ClinicX Mobile Application is developed by UoN finalists, dedicated to providing innovative solutions for a seamless healthcare experience.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
